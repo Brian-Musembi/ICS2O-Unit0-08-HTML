@@ -1,0 +1,33 @@
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #F5F5DC}
+
+th {
+  background-color: #A52A2A;
+  color: white;
+}
+ul.a {
+  list-style-type: circle;
+}
